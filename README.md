@@ -23,6 +23,10 @@ Update other information about employee - such as manager, salary, etc.
 
 https://github.com/mms211/Employee-Tracker
 
+## Screen Shot
+
+https://user-images.githubusercontent.com/54684022/75099657-1db1d000-5592-11ea-94f1-aa93a5253483.png
+
 ## License
 
 Copyright (c) 2020 Morgana Sommer
